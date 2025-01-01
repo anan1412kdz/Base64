@@ -30,10 +30,12 @@ Giúp hiểu rõ cách dữ liệu được xử lý và mã hóa trong an ninh 
 Nâng cao kỹ năng lập trình thông qua việc thực hiện thuật toán mã hóa cơ bản.
 
 Là nền tảng để học các kỹ thuật mã hóa nâng cao khác.
-
+# Setup
+termux
+```bash
+pkg update && pkg install python git && pip install pystyle rich
+```
 
 Bạn có thể bắt đầu bằng cách sử dụng các thư viện có sẵn như base64 trong Python hoặc viết thuật toán thủ công để hiểu sâu hơn về quy trình.
 # Picture
 ![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/Screenshot_20241230_224702_Termux.jpg?raw=true)
-# Lưu ý 
-cần cài một số thư viện để chạy 
