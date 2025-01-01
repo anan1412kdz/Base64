@@ -34,6 +34,6 @@ Là nền tảng để học các kỹ thuật mã hóa nâng cao khác.
 
 Bạn có thể bắt đầu bằng cách sử dụng các thư viện có sẵn như base64 trong Python hoặc viết thuật toán thủ công để hiểu sâu hơn về quy trình.
 # Picture
-![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/base64.jpg?raw=true)
+![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/Screenshot_20241230_224702_Termux.jpg?raw=true)
 # Lưu ý 
 cần cài một số thư viện để chạy 
